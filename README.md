@@ -1,2 +1,0 @@
-# NTierApplication
-NTierApplication
